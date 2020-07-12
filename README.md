@@ -21,3 +21,5 @@ You can try it out here: <a href="https://grades-frontend-web.herokuapp.com">ðŸŒ
 # Back end
 - Node.js and Express
 - MongoDB and Mongoose
+# Deploy
+- Heroku
