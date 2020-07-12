@@ -8,15 +8,14 @@ Grades Control se trata de uma aplicação CRUD para armazenar registros de nota
 
 - Desktop display
 <p align="center">
-<img src=" https://i.imgur.com/llIwMHf.png" width="650px">
+<img src="https://imgur.com/llIwMHf.png" width="650px">
 </p>
 
 ## 🚀 Technologies
 
-FRONT END
-
+# Front end
 - ReactJS
 - Bootstrap 4
-  BACK END
+# Back end
 - Node.js and Express
 - MongoDB and Mongoose
